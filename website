@@ -1,2 +1,8 @@
 print("hello")
+<<<<<<< HEAD
 print("hi")
+=======
+print("hi")
+print("added from rupali")
+print("hi from rupali")
+>>>>>>> 5e9b6df (added hi from rupali)
